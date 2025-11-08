@@ -1,10 +1,6 @@
 {
-  "version": "2.0",
-  "released": "2025-11-09",
-  "description": "Improved LED blink delay from 100ms to 200ms.",
+  "version": "3.0.0",
   "files": {
-    "bin_url": "https://github.com/pragyapathak56889-blip/fytutyjyj/blob/main/bruzz.ino.bin",
-    "Developer": "Ayushman"
+    "bin_url": "https://raw.githubusercontent.com/pragyapathak56889-blip/fytutyjyj/main/bruzz.ino.bin"
   }
-
 }
